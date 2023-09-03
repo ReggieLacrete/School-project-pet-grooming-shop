@@ -1,30 +1,20 @@
-# School-project-pet-grooming-shop # Ruff Cuts Pet Grooming Website
+@@ -1,10 +1,10 @@
+<div align='center'><img style="width:30%" src='https://user-images.githubusercontent.com/105128267/218077760-5694a4ac-4e37-4de7-b31f-268ccd27400a.png'/></div>
+<h2>About the project</h2>
 
-Welcome to the Ruff Cuts Pet Grooming website repository! This is a web application built with React for a pet grooming business. The application allows users to learn about the services offered, view images of the grooming salon, and book appointments with ease.
+  <p>A <b>car rental</b> website is an online platform that allows users to rent cars for personal or business use. The website provides an easy-to-use interface for searching, comparing, and reserving cars from a wide selection of vehicles that vary in make, model, size, and price.</p>
 
-## Table of Contents
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [License](#license)
+👉 Live Demo: <a href='soon'>Soon</a>
+👉 Live Demo: <a href='https://car-rental-ten.vercel.app/'>Live Demo</a>
 
-## Features
+<h3>Build with:</h3>
 
-- **Homepage**: A visually appealing homepage with a dynamic typewriter effect and a call to action button.
-- **About Section**: Detailed information about the grooming salon, its commitment to pet care, and the services offered.
-- **Image Carousel**: A carousel displaying images of happy pets and the grooming facilities.
-- **Services Section**: Information about the services provided, including haircuts and bathing.
-- **Appointment Booking**: A user-friendly modal for booking appointments with customizable date, time, and message.
-- **Contact Section**: Quick access to contact information for the pet grooming service.
-- **Business Hours**: Information about the operating hours of the salon.
-- **Responsive Design**: The website is designed to work well on various screen sizes.
-
-## Installation
-
-1. Clone the repository to your local machine:
-
-   ```bash
-   git clone https://github.com/yourusername/ruff-cuts-pet-grooming.git
+» Sass / Scss <br>
+» React JS
+<h2>Screenshots of the Project 📸</h2>
+<br>
+<h3 align='center'>Home Page 🏡</h3>
+<div align='center'>
+<img src='https://user-images.githubusercontent.com/105128267/218077675-f50ac9ae-8d2c-4196-aed8-f4490e142960.png'/>
+</div>
 ![ruffimg](https://github.com/ReggieLacrete/School-project-pet-grooming-shop/assets/133793148/b9fef5fb-68c1-40d6-84c2-f995591d93ec)
