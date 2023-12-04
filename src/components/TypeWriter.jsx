@@ -4,15 +4,11 @@ const TypeWriter = () => {
   return (
     <TypeAnimation
       sequence={[
-        'The Best Pet Grooming Shop in Fort Oglethorpe',
-        1000,
-        '',
+        'The Best Pet Grooming Shop in Fort Oglethorpe'
       ]}
       wrapper="span"
       speed={-50}
-      style={{ fontSize: '1em', display: 'inline-block' }}
-      repeat={Infinity}
-      
+      style={{ fontSize: '1em', display: 'inline-block' }}      
     />
   );
 };

@@ -35,8 +35,8 @@ const Navbar = () => {
   return (
     <>
       <nav>
-        <h3 onClick={pageUp} className="logo">
-        <img src={logo} alt="emoji" className="logo" />
+        <h3 onClick={pageUp} className="header-title">
+        Ruff Cuts Pet Grooming
         </h3>
         <ul>
           {navlinks.map((item) => (
