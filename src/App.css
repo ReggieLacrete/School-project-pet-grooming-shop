@@ -1971,6 +1971,7 @@ progress {
 }
 .form-label {
   margin-bottom: 0.5rem;
+  font-family: 'Lobster';
 }
 
 .col-form-label {
@@ -2000,19 +2001,17 @@ progress {
 }
 
 .form-control {
+  font-family: 'Lobster';
   display: block;
   width: 100%;
   padding: 0.375rem 0.75rem;
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #212529;
+  color: #7a5d03;
   background-color: ivory;
   background-clip: padding-box;
-  border: 1px solid #ced4da;
-  -webkit-appearance: none;
-     -moz-appearance: none;
-          appearance: none;
+  border: 4px dotted #7a5d03;
   border-radius: 0.375rem;
   transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 }
@@ -2030,9 +2029,9 @@ progress {
 .form-control:focus {
   color: #212529;
   background-color: #fff;
-  border-color: #fab19d;
+  border-color: #7a5d03;
   outline: 0;
-  box-shadow: 0 0 0 0.25rem rgba(244, 98, 58, 0.25);
+  box-shadow: 0 0 0 0.25rem #fff;
 }
 .form-control::-webkit-date-and-time-value {
   height: 1.5em;
@@ -2079,7 +2078,7 @@ progress {
   padding: 0.375rem 0;
   margin-bottom: 0;
   line-height: 1.5;
-  color: #212529;
+  color: #7a5d03;
   background-color: transparent;
   border: solid transparent;
   border-width: 1px 0;
@@ -4843,7 +4842,7 @@ textarea.form-control-lg {
   border-bottom: var(--bs-modal-header-border-width) solid var(--bs-modal-header-border-color);
   border-top-left-radius: var(--bs-modal-inner-border-radius);
   border-top-right-radius: var(--bs-modal-inner-border-radius);
-  background-color: ivory;
+    background-color: ivory;
 
 }
 .modal-header .btn-close {
@@ -4852,6 +4851,7 @@ textarea.form-control-lg {
 }
 
 .modal-title {
+  font-family: 'Lobster';
   margin-bottom: 0;
   line-height: var(--bs-modal-title-line-height);
 }
