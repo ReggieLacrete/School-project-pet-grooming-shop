@@ -1,7 +1,7 @@
 import React from 'react';
 
 const BusinessHours = () => {
-  const daysOfWeek = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'];
+  const daysOfWeek = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
 
   const hoursOfOperation = {
     Monday: '8:30 AM - 4:00 PM',
@@ -12,6 +12,7 @@ const BusinessHours = () => {
     Saturday: '8:30 AM - 4:00 PM',
     Sunday: 'Closed',
   };
+  
 
   return ( 
     <div className='bh'>

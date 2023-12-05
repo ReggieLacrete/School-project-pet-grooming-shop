@@ -277,7 +277,7 @@ function App() {
             <i className="fa fa-phone"></i> 561-113-0001
           </a>
           <a role="button" className="btn btn-link" href="Karenro@gmail.com">
-            <i className="fa fa-envelope-o"></i> Karenro@gmail.com
+            <i className="fa fa-envelope"></i> Karenro@gmail.com
           </a>
           <a
             role="button"

@@ -3161,24 +3161,9 @@ textarea.form-control-lg {
 }
 
 .btn-link {
-  --bs-btn-font-weight: 400;
-  color: #e15858;
-  --bs-btn-bg: transparent;
-  --bs-btn-border-color: transparent;
-  --bs-btn-hover-color:#8ebbba;
-  --bs-btn-hover-border-color: transparent;
-  --bs-btn-active-color: var(--bs-link-hover-color);
-  --bs-btn-active-border-color: transparent;
-  --bs-btn-disabled-color: #6c757d;
-  --bs-btn-disabled-border-color: transparent;
-  --bs-btn-box-shadow: none;
-  --bs-btn-focus-shadow-rgb: 246, 122, 88;
-}
-.btn-link:focus-visible {
-  color: var(--bs-btn-color);
-}
-.btn-link:hover {
-  color: #8ebbba;
+  --bs-btn-font-weight: 700;
+  color: #7a5d03;
+  --bs-btn-hover-color: #cf5331;
 }
 
 .btn-lg, .btn-group-lg > .btn {
@@ -7661,7 +7646,7 @@ textarea.form-control-lg {
 
 .bg-light {
   --bs-bg-opacity: 1;
-  background-color:whitesmoke;
+  background-color:ivory;
 }
 
 .bg-dark {
@@ -10625,6 +10610,7 @@ h3  {
 
 .man {
   border:#7a5d03 solid ;
+  font-weight: bold !important;
 }
 /* Navbar Style Start */
 .navbar {
@@ -10909,4 +10895,14 @@ nav ul a:hover {
 
 .header-title {
   font-family: 'Lobster';
+}
+
+.fa-envelope {
+  color: ivory;
+}
+
+.op {
+font-weight: bold !important;
+background-color: var(--opening-hours-today-row-background-color) !important;
+color: var(--opening-hours-today-text-color) !important;
 }
