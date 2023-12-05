@@ -1,6 +1,5 @@
 import { useState } from "react";
 import '../App.css';
-import logo from '../img/Rufflogo.png';
 
 const Navbar = () => {
   const [hamburger, setHamburger] = useState(false);

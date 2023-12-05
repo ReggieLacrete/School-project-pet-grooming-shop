@@ -2904,13 +2904,14 @@ textarea.form-control-lg {
 }
 
 .btn-cancel {
-  --bs-btn-color: #fff;
-  --bs-btn-bg: lightslategray;
-  --bs-btn-border-color: #6c757d;
+  --bs-btn-color: ivory;
+  --bs-btn-bg:#7a5d03;
+  --bs-btn-border-color: #7a5d03;
   --bs-btn-hover-color: #fff;
-  --bs-btn-hover-bg: #5c636a;
-  --bs-btn-hover-border-color: #565e64;
-  --bs-btn-focus-shadow-rgb: 130, 138, 145;
+  --bs-btn-hover-bg: #cf5331;
+  --bs-btn-hover-border-color: #c34e2e;
+  --bs-btn-focus-shadow-rgb: 246, 122, 88;
+
   --bs-btn-active-color: #fff;
   --bs-btn-active-bg: #565e64;
   --bs-btn-active-border-color: #51585e;
